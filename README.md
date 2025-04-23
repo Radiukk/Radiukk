@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, sou o Radiuk 👋
 
 <!--
 **Radiukk/Radiukk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
